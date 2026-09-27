@@ -8,6 +8,18 @@ I've spent 10+ years across the whole infrastructure stack — starting from ARM
   <a href="mailto:supsup5642@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail.png" height="40" alt="Email"/></a>
 </p>
 
+## 💼 Career
+
+| Period | Company | Role | Summary |
+|---|---|---|---|
+| 2024.12 - Present | **Karrot** | Site Reliability Engineer | Reliability & security of large-scale EKS clusters — Karpenter migration (~1,000 nodes, zero downtime), job node group autoscaling, GPU serving (~60 nodes) & Dagster platforms |
+| 2022.09 - 2024.12 | **Amazon Web Services** | Solutions Architect | Architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS |
+| 2019.06 - 2022.09 | **Kakao** | Software Engineer | Developed & operated DKOS, the in-house Kubernetes platform (5,000+ clusters, 60,000+ nodes); led migration of ~60% of Kakao services |
+| 2018.12 - 2019.06 | **cafe24** | Software Engineer | Analyzed & operated infra services (DB, cache, message queue) on Kubernetes |
+| 2016.02 - 2018.12 | **TmaxSoft** | Senior Researcher | R&D on computing virtualization — developed Prozone, an on-premise cloud solution for VMs & containers |
+| 2012.12 - 2014.01 | **KETI** | Researcher | R&D on IoT & embedded Linux — integrated a CoAP protocol stack into the Android framework |
+| 2012.08 - 2014.02 | **Samsung Electronics** | Software Membership | Built an FTL (Flash Translation Layer) simulator hardware platform, from circuit design to PCB artwork |
+
 ## 🚀 Open Source Projects I Lead
 
 - **[kpexec](https://github.com/ssup2/kpexec)** : A kubectl plugin that runs commands in a container with high privileges for debugging; registered and maintained in [krew](https://github.com/kubernetes-sigs/krew-index) as `pexec`
@@ -39,12 +51,3 @@ I've spent 10+ years across the whole infrastructure stack — starting from ARM
 - **Kakao Blog** : Introducing network-node-manager ([Korean](https://tech.kakao.com/2021/03/03/network-node-manager/))
 - **Kakao Blog** : K8s cgroupfs Analysis and Selection ([Korean](https://tech.kakao.com/2020/06/29/cgroup-driver/))
 
-## 💼 Career
-
-- **Karrot** (Site Reliability Engineer, 2024.12 - Present) : Responsible for the reliability and security of large-scale EKS clusters — migrated ~1,000 nodes from Cluster Autoscaler to Karpenter with zero downtime, introduced autoscaling for job-dedicated node groups, and operate GPU serving (~60 nodes) and Dagster data pipeline platforms
-- **Amazon Web Services** (Solutions Architect, 2022.09 - 2024.12) : Provided architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS workloads
-- **Kakao** (Software Engineer, 2019.06 - 2022.09) : Developed and operated DKOS, Kakao's in-house Kubernetes platform managing 5,000+ clusters and 60,000+ nodes, and led the migration of ~60% of Kakao services onto it
-- **cafe24** (Software Engineer, 2018.12 - 2019.06) : Analyzed and operated infra services (DB, cache, message queue) running on Kubernetes
-- **TmaxSoft** (Senior Researcher, 2016.02 - 2018.12) : R&D on computing virtualization — developed Prozone, an on-premise cloud solution unifying VM and container lifecycle management
-- **KETI** (Researcher, 2012.12 - 2014.01) : R&D on IoT and embedded Linux — integrated a CoAP protocol stack into the Android framework
-- **Samsung Electronics** (Software Membership, 2012.08 - 2014.02) : Designed and built an FTL (Flash Translation Layer) simulator hardware platform, from circuit design to PCB artwork
