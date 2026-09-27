@@ -1,4 +1,4 @@
-# Jungsub Shin
+# 💻 Jungsub Shin
 
 Infrastructure engineer with 10+ years across the whole stack — from ARM hypervisors and computing virtualization, through Kubernetes platform engineering, to cloud architecture on AWS. Currently an SRE at Karrot, keeping large-scale EKS clusters reliable and secure.
 
