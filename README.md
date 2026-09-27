@@ -10,7 +10,7 @@ I've spent 10+ years across the whole infrastructure stack — starting from ARM
 
 ## 💼 Career
 
-| Company / Role / Period | Summary |
+| Company&nbsp;/&nbsp;Role&nbsp;/&nbsp;Period | Summary |
 |---|---|
 | **Karrot**<br>SRE<br>2024.12 - Present | • Migrated ~1,000 EKS nodes from Cluster Autoscaler to Karpenter with zero downtime<br>• Introduced autoscaling for job-dedicated node groups, removing manual capacity management<br>• Built & operated ~60 GPU nodes for ML model serving across teams<br>• Deployed Dagster on EKS as an internal data pipeline platform (~1,000 runs/day) |
 | **Amazon Web Services**<br>Solutions Architect<br>2022.09 - 2024.12 | • Provided architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS<br>• Troubleshot intermittent EKS network issues and drove Karpenter adoption for customer platforms |
