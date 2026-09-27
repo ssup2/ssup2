@@ -8,6 +8,21 @@ I've spent 10+ years across the whole infrastructure stack — starting from ARM
   <a href="mailto:supsup5642@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail.png" height="40" alt="Email"/></a>
 </p>
 
+## ✍️ Articles
+
+- **Karrot Blog** — [Our Journey to Autoscaling EKS Node Groups for Job Workloads](https://medium.com/daangn/our-journey-to-autoscaling-eks-node-groups-for-job-workloads-e8a6a7ed845e) ([Korean](https://medium.com/daangn/job-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-eks-node-group-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%EB%8F%84%EC%9E%85%EA%B8%B0-a6a28376d153))
+- **Karrot Blog** — [Our Journey to Using Host Network in Kubernetes Pods](https://medium.com/daangn/our-journey-to-using-host-network-in-kubernetes-pods-c87e19b63c78) ([Korean](https://medium.com/daangn/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%8C%8C%EB%93%9C%EC%97%90-host-network-%EB%8F%84%EC%9E%85%EA%B8%B0-99b4c02ca490))
+- **AWS Korea Blog** — [Woowa Brothers' Data Platform Built Around Data on EKS](https://aws.amazon.com/ko/blogs/tech/woowa-brothers-amazon-data-on-eks-data-platform/) (Korean)
+- **AWS Korea Blog** — [Comparing Spark Application Submission Methods on Amazon EKS](https://aws.amazon.com/ko/blogs/tech/amazon-eks-spark-submission-comparison/) (Korean)
+- **AWS Korea Blog** — [Reducing Cross-AZ Traffic Costs on Amazon EKS with Topology Aware Hints](https://aws.amazon.com/ko/blogs/tech/amazon-eks-reduce-cross-az-traffic-costs-with-topology-aware-hints/) (Korean)
+- **Kakao Blog** — [Introducing network-node-manager](https://tech.kakao.com/2021/03/03/network-node-manager/) (Korean)
+- **Kakao Blog** — [K8s cgroupfs Analysis and Selection](https://tech.kakao.com/2020/06/29/cgroup-driver/) (Korean)
+
+## 🎤 Presentations
+
+- **AWS Summit Seoul** — [Data Processing on Containers: Woowa Brothers' Data Platform Innovation](https://youtu.be/T2mtIkQ1vbA?si=vIsUxzaSal2F7a6z) (Korean)
+- **Kakao ifKakao** — [Programming K8s Controller](https://tv.kakao.com/channel/3693125/cliplink/414072325) (Korean)
+
 ## 🌱 Open Source Contributions
 
 - **[kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)** — Fix topology spread scheduling by filtering domains by NodePool compatibility ([#3181](https://github.com/kubernetes-sigs/karpenter/pull/3181), open)
