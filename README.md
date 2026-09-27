@@ -1,6 +1,6 @@
 # 💻 Jungsub Shin
 
-Infrastructure engineer with 10+ years across the whole stack — from ARM hypervisors and computing virtualization, through Kubernetes platform engineering, to cloud architecture on AWS. Currently an SRE at Karrot, keeping large-scale EKS clusters reliable and secure.
+Cloud engineer with 10+ years of diverse experience across the cloud landscape — from computing virtualization R&D, through building and operating Kakao's in-house cloud platform, to designing cloud architectures for customers as an AWS Solutions Architect. Currently an SRE at Karrot, keeping large-scale EKS clusters reliable and secure.
 
 <p>
   <a href="https://www.linkedin.com/in/jungsub-shin-933b82119/"><img src="https://img.icons8.com/fluency/96/linkedin.png" height="40" alt="LinkedIn"/></a>&nbsp;
@@ -14,7 +14,7 @@ Infrastructure engineer with 10+ years across the whole stack — from ARM hyper
 |---|---|
 | **Karrot**<br>SRE<br>2024.12&nbsp;-&nbsp;Present | • Migrated ~1,000 EKS nodes from Cluster Autoscaler to Karpenter with zero downtime<br>• Introduced autoscaling for job-dedicated node groups, removing manual capacity management<br>• Built & operated ~60 GPU nodes for ML model serving across teams<br>• Deployed Dagster on EKS as an internal data pipeline platform (~1,000 runs/day) |
 | **Amazon&nbsp;Web&nbsp;Services**<br>Solutions&nbsp;Architect<br>2022.09&nbsp;-&nbsp;2024.12 | • Provided architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS<br>• Troubleshot intermittent EKS network issues and drove Karpenter adoption for customer platforms |
-| **Kakao**<br>Software&nbsp;Engineer<br>2019.06&nbsp;-&nbsp;2022.09 | • Developed & operated DKOS, the in-house Kubernetes platform (5,000+ clusters, 60,000+ nodes)<br>• Led the migration of ~60% of Kakao services to DKOS<br>• Developed network-node-manager to automatically detect and resolve network issues |
+| **Kakao**<br>Software&nbsp;Engineer<br>2019.06&nbsp;-&nbsp;2022.09 | • Developed & operated DKOS, the in-house cloud platform based on Kubernetes (5,000+ clusters, 60,000+ nodes)<br>• Led the migration of ~60% of Kakao services to DKOS<br>• Developed network-node-manager to automatically detect and resolve network issues |
 | **cafe24**<br>Software&nbsp;Engineer<br>2018.12&nbsp;-&nbsp;2019.06 | • Analyzed & operated infra services (DB, cache, message queue) on Kubernetes |
 | **TmaxSoft**<br>Senior&nbsp;Researcher<br>2016.02&nbsp;-&nbsp;2018.12 | • Developed Prozone, an on-premise cloud solution unifying VM and container lifecycle management<br>• Built a lightweight monitoring agent collecting performance metrics from VMs and containers |
 | **KETI**<br>Researcher<br>2012.12&nbsp;-&nbsp;2014.01 | • Integrated a CoAP protocol stack into the Android framework for IoT communication |
