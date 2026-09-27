@@ -38,3 +38,13 @@ I've spent 10+ years across the whole infrastructure stack — starting from ARM
 - **AWS Korea Blog** : Reducing Cross-AZ Traffic Costs on Amazon EKS with Topology Aware Hints ([Korean](https://aws.amazon.com/ko/blogs/tech/amazon-eks-reduce-cross-az-traffic-costs-with-topology-aware-hints/))
 - **Kakao Blog** : Introducing network-node-manager ([Korean](https://tech.kakao.com/2021/03/03/network-node-manager/))
 - **Kakao Blog** : K8s cgroupfs Analysis and Selection ([Korean](https://tech.kakao.com/2020/06/29/cgroup-driver/))
+
+## 💼 Career
+
+- **Karrot** (Site Reliability Engineer, 2024.12 - Present) : Responsible for the reliability and security of large-scale EKS clusters — migrated ~1,000 nodes from Cluster Autoscaler to Karpenter with zero downtime, introduced autoscaling for job-dedicated node groups, and operate GPU serving (~60 nodes) and Dagster data pipeline platforms
+- **Amazon Web Services** (Solutions Architect, 2022.09 - 2024.12) : Provided architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS workloads
+- **Kakao** (Software Engineer, 2019.06 - 2022.09) : Developed and operated DKOS, Kakao's in-house Kubernetes platform managing 5,000+ clusters and 60,000+ nodes, and led the migration of ~60% of Kakao services onto it
+- **cafe24** (Software Engineer, 2018.12 - 2019.06) : Analyzed and operated infra services (DB, cache, message queue) running on Kubernetes
+- **TmaxSoft** (Senior Researcher, 2016.02 - 2018.12) : R&D on computing virtualization — developed Prozone, an on-premise cloud solution unifying VM and container lifecycle management
+- **KETI** (Researcher, 2012.12 - 2014.01) : R&D on IoT and embedded Linux — integrated a CoAP protocol stack into the Android framework
+- **Samsung Electronics** (Software Membership, 2012.08 - 2014.02) : Designed and built an FTL (Flash Translation Layer) simulator hardware platform, from circuit design to PCB artwork
