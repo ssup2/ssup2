@@ -12,13 +12,13 @@ I've spent 10+ years across the whole infrastructure stack — starting from ARM
 
 | Company&nbsp;/&nbsp;Role&nbsp;/&nbsp;Period | Summary |
 |---|---|
-| **Karrot**<br>SRE<br>2024.12 - Present | • Migrated ~1,000 EKS nodes from Cluster Autoscaler to Karpenter with zero downtime<br>• Introduced autoscaling for job-dedicated node groups, removing manual capacity management<br>• Built & operated ~60 GPU nodes for ML model serving across teams<br>• Deployed Dagster on EKS as an internal data pipeline platform (~1,000 runs/day) |
-| **Amazon Web Services**<br>Solutions Architect<br>2022.09 - 2024.12 | • Provided architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS<br>• Troubleshot intermittent EKS network issues and drove Karpenter adoption for customer platforms |
-| **Kakao**<br>Software Engineer<br>2019.06 - 2022.09 | • Developed & operated DKOS, the in-house Kubernetes platform (5,000+ clusters, 60,000+ nodes)<br>• Led the migration of ~60% of Kakao services to DKOS<br>• Developed network-node-manager to automatically detect and resolve network issues |
-| **cafe24**<br>Software Engineer<br>2018.12 - 2019.06 | • Analyzed & operated infra services (DB, cache, message queue) on Kubernetes |
-| **TmaxSoft**<br>Senior Researcher<br>2016.02 - 2018.12 | • Developed Prozone, an on-premise cloud solution unifying VM and container lifecycle management<br>• Built a lightweight monitoring agent collecting performance metrics from VMs and containers |
-| **KETI**<br>Researcher<br>2012.12 - 2014.01 | • Integrated a CoAP protocol stack into the Android framework for IoT communication |
-| **Samsung Electronics**<br>Software Membership<br>2012.08 - 2014.02 | • Built an FTL (Flash Translation Layer) simulator hardware platform, from circuit design to PCB artwork |
+| **Karrot**<br>SRE<br>2024.12&nbsp;-&nbsp;Present | • Migrated ~1,000 EKS nodes from Cluster Autoscaler to Karpenter with zero downtime<br>• Introduced autoscaling for job-dedicated node groups, removing manual capacity management<br>• Built & operated ~60 GPU nodes for ML model serving across teams<br>• Deployed Dagster on EKS as an internal data pipeline platform (~1,000 runs/day) |
+| **Amazon&nbsp;Web&nbsp;Services**<br>Solutions&nbsp;Architect<br>2022.09&nbsp;-&nbsp;2024.12 | • Provided architectural guidance for Digital Native Business customers, focusing on Amazon EKS and EMR on EKS<br>• Troubleshot intermittent EKS network issues and drove Karpenter adoption for customer platforms |
+| **Kakao**<br>Software&nbsp;Engineer<br>2019.06&nbsp;-&nbsp;2022.09 | • Developed & operated DKOS, the in-house Kubernetes platform (5,000+ clusters, 60,000+ nodes)<br>• Led the migration of ~60% of Kakao services to DKOS<br>• Developed network-node-manager to automatically detect and resolve network issues |
+| **cafe24**<br>Software&nbsp;Engineer<br>2018.12&nbsp;-&nbsp;2019.06 | • Analyzed & operated infra services (DB, cache, message queue) on Kubernetes |
+| **TmaxSoft**<br>Senior&nbsp;Researcher<br>2016.02&nbsp;-&nbsp;2018.12 | • Developed Prozone, an on-premise cloud solution unifying VM and container lifecycle management<br>• Built a lightweight monitoring agent collecting performance metrics from VMs and containers |
+| **KETI**<br>Researcher<br>2012.12&nbsp;-&nbsp;2014.01 | • Integrated a CoAP protocol stack into the Android framework for IoT communication |
+| **Samsung&nbsp;Electronics**<br>Software&nbsp;Membership<br>2012.08&nbsp;-&nbsp;2014.02 | • Built an FTL (Flash Translation Layer) simulator hardware platform, from circuit design to PCB artwork |
 
 ## 🚀 Open Source Projects I Lead
 
