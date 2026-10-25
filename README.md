@@ -38,6 +38,7 @@ Cloud engineer with 10+ years of diverse experience across the cloud landscape â
 
 ## ðŸŽ¤ Presentations
 
+- **Karrot Builder Meetup** : A Carpenter Tailoring EKS Nodes: Karrot's Karpenter Adoption Journey ([Korean](https://www.youtube.com/watch?v=rmGEMwQIG-A))
 - **AWS Summit Seoul** : Data Processing on Containers: Woowa Brothers' Data Platform Innovation ([Korean](https://youtu.be/T2mtIkQ1vbA?si=vIsUxzaSal2F7a6z))
 - **Kakao ifKakao** : Programming K8s Controller ([Korean](https://tv.kakao.com/channel/3693125/cliplink/414072325))
 
